@@ -4,4 +4,4 @@ gittool.py is a python library for automation scripts to gather information from
 
 gitgui.py is a gui program base on the gittool
 
-[GitGUI screen shot](gitgui.png)
+![image](gitgui.png)
